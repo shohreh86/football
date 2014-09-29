@@ -1,4 +1,3 @@
-
 // Fatemeh Sedigh Haghighat
 
 package defaultPackage;
